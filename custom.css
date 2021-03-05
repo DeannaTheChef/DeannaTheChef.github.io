@@ -1,0 +1,444 @@
+@charset "ISO-8859-1";
+
+a:visited {
+	-webkit-text-stroke: 1px #0d1e72;
+}
+
+.bg {
+	padding: 10px;
+}
+
+.blue {
+
+	color: blue;
+	filter: drop-shadow(10px 10px 12px black);
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	background-color: #9cb8df;
+	font-family: Georgia;
+	font-weight: bold;
+}
+
+.bold {
+	font-weight: bold;	
+}
+
+.border2 {
+	border: 10px solid;
+	border-color: white;
+	border-radius: 15px;
+}
+
+#brand {
+	font-size: 1.75em;
+}
+
+.btn-submit:hover {
+	background-color: #090909 !important;
+}
+
+.Burgers {
+	font-weight: bold;
+	text-align: center;
+	margin-left: -50px;
+}
+
+#combos {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.comic {
+	font-family: Comic Sans MS;
+}
+
+.center {
+	text-align: center;
+}
+
+.centeredBBQ {
+	padding: 20px;
+	width: 50%;
+	margin-left: 27%;
+	margin-right: 25%;
+}
+
+.centeredCheesecake {
+	padding: 20px;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.centeredHummus {
+	padding: 20px;
+	width: 100%;
+	margin-left: 27%;
+	margin-right: 25%;
+}
+
+.centeredSquirrel {
+	padding: 20px;
+	width: 75%;
+	height: auto;
+	display : block;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;	
+}
+
+.centeredStuff {
+	position: center;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px;
+	background: -webkit-linear-gradient(rgb(0, 255, 64),rgb(0, 0, 160));
+	-webkit-background-clip: text;
+	background-clip: text;
+	clip: none;
+	-webkit-text-fill-color: transparent;
+}
+
+.confirmation {
+
+	position: center;
+	font-weight: bolder;
+	text-align: center;
+	font-size: 32px;
+}
+
+.dreamBurger {
+	position: center;
+	font-size: 48px;
+	font-weight: bolder;
+	text-align: center;
+	padding: 10px;
+	background: -webkit-linear-gradient(rgb(0, 255, 64),rgb(0, 0, 160));
+	-webkit-background-clip: text;
+	background-clip: text;
+	clip: none;
+	-webkit-text-fill-color: transparent;
+}
+
+.features {
+	padding: 5px;
+}
+
+.features p {
+	text-align: center;
+	color: #ed8512;
+	font-size: 1.2em;
+	padding: 20px;
+}
+
+
+
+#FHamburger {
+	padding: 10px;
+	background: -webkit-linear-gradient(rgb(0, 255, 64),rgb(0, 0, 160));
+	-webkit-background-clip: text;
+	background-clip: text;
+	clip: none;
+	-webkit-text-fill-color: transparent;
+}
+
+.flright {
+	float: right;
+    position: relative;
+}
+
+footer {
+	background-color: #8db0e0;
+	position: center;
+	width: 100%;
+	height: auto;
+}
+
+footer a, footer p {
+	vertical-align: middle;
+	background: -webkit-linear-gradient(rgb(0, 255, 64),rgb(0, 0, 160));
+	-webkit-background-clip: text;
+	background-clip: text;
+	clip: none;
+	-webkit-text-fill-color: transparent;
+}
+
+footer p {
+	float: center;
+}
+
+footer ul li {
+	display: block;
+	list-style: none;
+	float: right;
+}
+
+.fourthItem {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#grad {
+  background-image: linear-gradient(rgb(0, 255, 64),rgb(0, 0, 160));
+}
+
+.gradient {
+	background: -webkit-linear-gradient(rgb(0, 255, 64),rgb(0, 0, 160));
+	-webkit-background-clip: text;
+	background-clip: text;
+	clip: none;
+	-webkit-text-fill-color: transparent;
+}
+
+.heavy {
+	font-size: 1em;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bolder;
+	font-size: 72px;
+}
+
+h2 {
+	font-size: 3em;
+	font-weight: bold;}
+
+h5 {
+	font-weight: bold;
+}
+
+html, body, main {
+	height: 100%;
+}
+
+.jumbotron h1 {
+	position: absolute;
+	top: 18;
+	left: 0;
+	padding-left: 20px;
+	color: #F7FAFE;
+}
+
+.large-product-card .card-body {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.med {
+	font-size: 1.25em;
+}
+
+.menubg {
+	background-color: #8db0e0;
+}
+
+.mission {
+	background-color: #1327b8;
+	color: #F7FAFE;
+	margin: auto;
+}
+
+.mission h3 {
+	font-family: 'Raleway' 'sans-serif';
+	padding: 20px;
+	padding-bottom: 40px;
+	text-align: center;
+	position: center;
+}
+
+#montra {
+	font-weight: bolder;
+	font-size: 36px;
+	background: -webkit-linear-gradient(rgb(0, 255, 64),rgb(0, 0, 160));
+	-webkit-background-clip: text;
+	background-clip: text;
+	clip: none;
+	-webkit-text-fill-color: transparent;
+	margin-bottom: 30px;
+	padding: 5px;
+}
+
+.nav {
+	font-size: 1em;}
+
+#nav {
+	font-size: 1em;
+	
+}
+
+.navbold {
+	font-size: 1.75em;
+}
+
+.order-button {
+	margin: auto;
+	width: 25%;
+	padding: 10px;
+}
+
+.order-form .container {
+	color: #000000;
+	padding: 20px;
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, .3);
+}
+
+.order-form-input {
+	width: 100%;
+	padding: 8px 8px;
+	border-width: 1px !important;
+	border-style: solid !important;
+	border-radius: 3px !important;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: bold;
+	background-color: transparent;
+	border-color: #cccccc;
+}
+
+.order-form-label {
+	margin: 8px 0 0 0;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.outline{
+	color: white;
+	font-size: 60px;
+	-webkit-text-stroke: 1px black;
+	text-shadow: 4px 4px 4px #c6331a75;
+}
+
+.outline2{
+	-webkit-text-stroke: 1px white;
+}
+
+.outline3{
+	-webkit-text-stroke: 0.5px #000000;
+}
+
+.outline4 {
+	-webkit-text-stroke: 1px black;
+}
+
+.pad {
+	padding: 50px;
+}
+
+.recipe {
+	background-color: white;
+}
+
+.recipebg {
+	background-color: #7b71ba
+}
+
+.round {
+	border-radius: 25px;
+}
+
+.roundcorners {
+  border-radius: 25px;
+  background: white;
+  padding: 10px;
+}
+
+.shadow {
+	
+	filter: drop-shadow(-10px -10px 12px white);
+}
+
+.shadowblack {
+
+	filter: drop-shadow(10px 10px 12px black);
+}
+
+.spacing {
+	padding: 25px;
+}
+
+.spb {
+	font-family: arial;
+	color: blue;
+	text-align: center;
+	font-weight: bold;
+}
+
+.spg {
+	font-family: arial;
+	color: green;
+	text-align: center;
+	font-weight: bold;
+}
+
+.spp {
+	font-family: arial;
+	color: purple;
+	text-align: center;
+	font-weight: bold;
+}
+
+#squirrel {
+	font-weight: bolder;
+	color: red;
+	text-align: center;
+}
+
+.Squirrel {
+	position: relative;
+}
+
+.Subscribe {
+	position: relative;
+	padding: 2px;
+	margin: auto;
+}
+
+#Subtitle {
+	padding: 10px;
+	background: -webkit-linear-gradient(rgb(0, 255, 64),rgb(0, 0, 160));
+	-webkit-background-clip: text;
+	background-clip: text;
+	clip: none;
+	-webkit-text-fill-color: transparent;
+}
+
+.success {
+	text-align: center;
+	font-weight: bold;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+}
+
+.vcenter {
+	padding-top: 10px;
+	vertical-align: bottom;
+	font-size: 1.5em;
+}
+
+
+
